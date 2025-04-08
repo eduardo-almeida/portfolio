@@ -18,7 +18,7 @@ Sou um Cientista de Dados graduado em Ciência da Computação pela Universidade
 
 Aqui você encontra os notebooks dos meus projetos na área de Data Science, Machine Learning e Data Analysis. 
 
-* [**Desafios propostos pelo curso de aceleração da Codenation:**](https://github.com/eduardo-almeida/Data_Science/tree/master/Codenation) Desafios práticos com foco em funções estatísticas, tais como PDF, CDF, PCA e RFE. Utilização de dados reais provenientes do Enem, dos Atletas Olímpicos e dos jogadores da FIFA.
+* [**Desafios propostos pelo curso de aceleração da Codenation:**](https://github.com/eduardo-almeida/portfolio/tree/main/Codenation) Desafios práticos com foco em funções estatísticas, tais como PDF, CDF, PCA e RFE. Utilização de dados reais provenientes do Enem, dos Atletas Olímpicos e dos jogadores da FIFA.
 
 * [**Identificação de inclinação de imagens:**](https://github.com/eduardo-almeida/Data_Science/tree/master/Detectar%20Faces) Aprendizagem de imagem  supervisionado, utilizando um conjunto de 50.000 imagens já rotuladas com o valor de rotação. Identificação da inclinação e realinhamento, em outro dataframe, contendo 5.000 novas imagens.
 
