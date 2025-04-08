@@ -23,7 +23,7 @@ Aqui você encontra os notebooks dos meus projetos na área de Data Science, Mac
 * [**Desafios propostos pelo curso de aceleração da Codenation:**](https://github.com/eduardo-almeida/portfolio/tree/main/Codenation) Desafios práticos com foco em funções estatísticas, tais como PDF, CDF, PCA e RFE. Utilização de dados reais provenientes do Enem, dos Atletas Olímpicos e dos jogadores da FIFA.
 
 * [**Desafio da NASA:**](https://github.com/eduardo-almeida/portfolio/tree/main/Desafio%20NASA) Desafio para vaga de Data Scientist na SolarView.
-* 
+  
 * [**Identificação de inclinação de imagens:**](https://github.com/eduardo-almeida/portfolio/tree/main/Detectar%20Faces) Aprendizagem de imagem  supervisionado, utilizando um conjunto de 50.000 imagens já rotuladas com o valor de rotação. Identificação da inclinação e realinhamento, em outro dataframe, contendo 5.000 novas imagens.
 
 * [**Estudo de Segurança Pública:**](https://github.com/eduardo-almeida/portfolio/tree/main/Seguranca%20P%C3%BAblica) Realização de um estudo de caso para fins de verificação de quais ruas e bairros onde mais ocorrem roubos, utilizando  dados disponibilizados pela Secretaria de Segurança de São Paulo. Utilização do modelo Arima para prever a quantidade de novos casos.
